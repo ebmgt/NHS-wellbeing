@@ -1,4 +1,7 @@
 # NHS-wellbeing
+
+Short URL: https://ebmgt.github.io/nhs-wellbeing
+
 Exploring the relationship between workforce engagement, satisfaction, burnout and summary Hospital-level Mortality Indicator (SHMI)
 
 [Abstract at Open Science Foundation (pending)](https://osf.io/)
