@@ -9,3 +9,9 @@ Exploring the relationship between workforce engagement, satisfaction, burnout a
 ## Source files at original websites
 * [Links to source files at NHS websites](https://ebmgt.github.io/nhs-source/)
 
+
+-------------------------------
+
+[Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
+
