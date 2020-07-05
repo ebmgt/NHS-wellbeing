@@ -4,7 +4,7 @@
 
 Exploring the relationship between workforce engagement, satisfaction, burnout and summary Hospital-level Mortality Indicator (SHMI)
 
-[Abstract at Open Science Foundation (pending)](https://osf.io/)
+[Abstract at Open Science Foundation](https://osf.io/h768j/) (http://doi.org/10.17605/OSF.IO/H768J)
 
 ## Local copies and derivitives of source files
 * [Data files](https://github.com/ebmgt/NHS-wellbeing/tree/master/files)
