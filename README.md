@@ -1,7 +1,7 @@
-# NHS-engagement
-Exploring the relationship between workforce engagement and summary Hospital-level Mortality Indicator (SHMI)
+# NHS-wellbeing
+Exploring the relationship between workforce engagement, satisfaction, burnout and summary Hospital-level Mortality Indicator (SHMI)
 
-[Abstract at Open Science Foundation](https://osf.io/qx5c2/)
+[Abstract at Open Science Foundation (pending)](https://osf.io/)
 
 ## Local copies and derivitives of source files
 * [Data files](https://github.com/ebmgt/NHS-engagement/tree/master/files)
