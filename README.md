@@ -7,7 +7,5 @@ Exploring the relationship between workforce engagement and summary Hospital-lev
 * [Data files](https://github.com/ebmgt/NHS-engagement/tree/master/files)
 
 ## Source files at original websites
-* Mortality data at [digital.nhs.uk](https://digital.nhs.uk/data-and-information/publications/clinical-indicators/shmi/)
-* Care Quality Commission (CQC) ratings from [www.cqc.org.uk](https://www.cqc.org.uk/what-we-do/how-we-do-our-job/ratings)
-* Adult Inpatient Surveys from [www.nhssurveys.org](http://www.nhssurveys.org/previoussurveys)
-* Staff Surveys results at [www.nhsstaffsurveys.com](https://www.nhsstaffsurveys.com/Page/1021/Past-Results/Historical-Staff-Survey-Results/)
+* [Links to source files at NHS websites](https://ebmgt.github.io/nhs-source/)
+
